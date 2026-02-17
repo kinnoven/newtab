@@ -1,2 +1,2 @@
-# newtab
-Open a tab to new experiences
+## newtab
+Fresh looking new tab
