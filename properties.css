@@ -1,0 +1,14 @@
+:root {
+  --background_color: hsl(210, 100%, 95%);
+}
+
+body {
+  margin: 0;
+}
+
+#container_main {
+  position: absolute;
+  height: 100%;
+  width:  100vw;
+  background-color: var(--background_color);
+}
