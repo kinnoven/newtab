@@ -1,2 +1,2 @@
 ## newtab
-Fresh looking new tab
+https://kinnoven.github.io/newtab/
